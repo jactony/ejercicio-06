@@ -1,0 +1,21 @@
+/* .main{
+    position: relative;
+    background-color: rgb(172, 212, 212);
+    border: 3px solid #000;
+    margin: 20px;
+    height: 50vh;
+    text-align: right;
+    padding: 20px;
+} */
+
+.img-fondo{ 
+    border: 2px solid rgb(212, 17, 17);
+    position: absolute;
+    right: 0;
+    top: 0;
+   
+}
+.img-fondo img{
+width: 100px;
+}
+

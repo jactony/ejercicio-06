@@ -1,0 +1,22 @@
+.main{
+    background-color: rgb(172, 212, 212);
+    /* border: 3px solid #000; */
+    margin: 20px;
+    height: 50vh;
+    text-align: center;
+    padding: 20px;
+}
+
+.img-fondo{
+    display: inline-block;
+    width: 245px;
+    /* border: 2px solid rgb(212, 17, 17); */
+    position: relative;
+   
+}
+
+.img2{
+   position: absolute;
+    left: 0px;
+    top: 0;
+}
